@@ -1,7 +1,6 @@
 # Bruna Luíza Fortes Marques
 
-**Desenvolvedora de Automação | Desenvolvimento assistido por IA**
-São Bernardo do Campo, SP
+**Desenvolvedora de Automação | Desenvolvimento assistido por IA** · São Bernardo do Campo, SP
 
 Estagiária de desenvolvimento, crio automações e ferramentas internas para os setores de compras, planejamento, fiscal e engenharia. Trabalho com desenvolvimento assistido por IA (engenharia de prompt), unindo lógica de programação, análise de dados e regras de negócio para transformar processos manuais em ferramentas confiáveis.
 
